@@ -22,7 +22,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
-gem 'hotloader', '= 1.0.7', :git => 'https://github.com/Voxoff/hotloader.git'
+gem 'hotloader', '= 1.0.8'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
